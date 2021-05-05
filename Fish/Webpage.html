@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Fun Games </title>
+<script src="https://simplycodingcourses.com/files/simplyjs/simply.js"></script>
+<script>
+function start(){
+sjs.open();
+var gameover_text = new sjs.Text("Games!",28,"blue");
+gameover_text.centerH().offset(0,85);
+
+var startBtn = new sjs.Button("Skull Pong", function(){
+window.location = "SkullIndex.html";
+});
+
+startBtn.center();
+
+var startBtn = new sjs.Button("Skeleton Fish", function(){
+window.location = "Index.html";
+});
+
+startBtn.centerH();
+
+}
+</script>
+</head>
+<body onload="start()">
+<h1> Fun Games </h1>
+
+<div id="target" style="margin:auto;background:grey;"></div>
+</body>
+</html>
