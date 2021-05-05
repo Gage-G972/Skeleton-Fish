@@ -1,1 +1,1 @@
-# Skeleton-Fish
+First download the zip file. After you download the zip file, extract it. Then put the index.html file into your browser. DO NOT CHANGE THE CODE UNLESS YOU KNOW WHAT YOU ARE DOING! Then click play and Enjoy!!! Also, press the space bar on any of the pages to hear music. Thanks for downloading!!!
